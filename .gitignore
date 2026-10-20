@@ -220,3 +220,6 @@ __marimo__/
 
 # macOS
 .DS_Store
+
+# ChromaDB database created by Part 1 (rebuilt by running the notebook)
+chromadb/
